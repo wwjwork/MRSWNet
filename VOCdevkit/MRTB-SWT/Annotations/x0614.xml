@@ -1,0 +1,37 @@
+<annotation>
+  <folder/>
+  <filename>x0614.png</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>256</height>
+    <width>256</width>
+    <depth>1</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>113</xmin>
+      <ymin>112</ymin>
+      <xmax>133</xmax>
+      <ymax>146</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wave</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>114</xmin>
+      <ymin>54</ymin>
+      <xmax>132</xmax>
+      <ymax>118</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation>
+  <folder/>
+  <filename>s0762.png</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>256</height>
+    <width>256</width>
+    <depth>1</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>91</xmin>
+      <ymin>94</ymin>
+      <xmax>125</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wave</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>62</xmin>
+      <ymin>74</ymin>
+      <xmax>101</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+</annotation>

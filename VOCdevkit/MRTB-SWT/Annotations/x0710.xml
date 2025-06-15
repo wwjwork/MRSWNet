@@ -1,0 +1,37 @@
+<annotation>
+  <folder/>
+  <filename>x0710.png</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>256</height>
+    <width>256</width>
+    <depth>1</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>158</xmin>
+      <ymin>89</ymin>
+      <xmax>180</xmax>
+      <ymax>115</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wave</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>141</xmin>
+      <ymin>107</ymin>
+      <xmax>176</xmax>
+      <ymax>166</ymax>
+    </bndbox>
+  </object>
+</annotation>
